@@ -1,0 +1,35 @@
+
+
+.deleteBtn {
+    border: 1px solid rgba(167, 169, 167, 0.511);
+    border-radius: 6px;
+    background-color: rgba(255, 0, 0, 0.516);    
+    padding: 0px 10px;
+    margin-left: 8px;
+    cursor: pointer;
+}
+.deleteBtn:hover {
+    background-color: rgba(255, 0, 0, 0.781);
+    color: white;
+    transition-duration: 250ms;
+}
+
+.editButton {
+    border: 1px solid rgba(167, 169, 167, 0.511);
+    border-radius: 6px;
+    background-color:rgba(9, 115, 220, 0.904);    
+    padding: 0px 10px;
+    margin-left: 8px;
+    cursor: pointer;
+}
+.editButton:hover {
+    background-color: rgb(6, 82, 159); 
+    color: white;
+    transition-duration: 250ms;
+}
+
+
+
+.mainDive {
+    border: 1px solid red !important;
+}
